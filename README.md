@@ -38,4 +38,4 @@ Atualmente, estou **aprendendo a desenvolver aplicações web e WEB APIs** com o
 
 Este curso tem sido uma **jornada incrível de aprendizado**, me preparando para os desafios do mercado de desenvolvimento web com **Laravel**. 💥🚀  
 
-![Captura de tela 2025-03-05 173034](https://github.com/user-attachments/assets/c23dc2ed-d8c3-40fa-844a-c48fee44f979)  
+
