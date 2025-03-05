@@ -22,4 +22,5 @@ class CheckIsLogged
 
         return $next($request);
     }
+
 }
